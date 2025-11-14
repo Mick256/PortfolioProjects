@@ -1,5 +1,6 @@
 /*
 From Alex The Analyst on YouTube (video titled "Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4")
+Source URL: https://www.youtube.com/watch?v=qfyynHBFOsM
 Skills learned:
     Many things from SQL Essential Training LinkedIn Learning course, but also:
     importing tables from CSV files to DB Browser for SQLite,
